@@ -1,3 +1,5 @@
+package me.tweirtx.StreamlineJava;
+
 import java.io.IOException;
 
 public class StreamlineDNSTester {
